@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  --fundo-branco:#FFFFFF;
+  --cinza-fundo:#F3F4F6;
+  --cinza-texto:#6B7280;
+  --footer:#374151;
+  
+  font-family: Poppins, Arial, sans-serif;
+  background-color: var(--cinza-fundo);
+}
+
+@font-face {
+  font-family: Poppins;
+  src: url(Fonts/Poppins-Regular.ttf);
+}
+
+.container {
+  background-color: var(--fundo-branco);
+  max-width: 1200px;
+  margin: 0 auto;
+  margin-top: 20px;
+  box-shadow: 0px 0px 7px rgb(92, 92, 92);
+}
+
+/* ===== RESPONSIVIDADE MOBILE ===== */
+/* Ajustes para telas menores */
+@media (max-width: 900px ) {
+  
+ header img{
+  position: relative;
+  left: 20px;
+ }
+
+  /* Reduz tamanhos do hero */
+  .hero h1 {
+    font-size: 27px;
+  }
+  
+  .hero h3{
+    font-size: 20px;
+  }
+
+  .hero button{
+    font-size: 20px;
+  }
+  
+  .titletwo {
+    margin: 30px 0 30px;
+    font-size: 15px
+  }
+
+
+  .servicos h3 {
+    font-size: 13px;
+  }
+
+  /* Ajusta textos da seção serviços */
+  .servicos p {
+    font-size: 11px;
+    padding: 20px 10px 10px 10px;
+  }
+
+  .contato{
+    margin-bottom: 30px;
+  }
+
+  .contato h2{
+    font-size: 18px;
+
+  }
+  
+/* Footer mais compacto */
+  .footer{
+    padding: 20px;
+  }
+
+}
+
+
