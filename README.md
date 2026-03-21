@@ -1,5 +1,7 @@
 # Responsive Landing Page
 
+[View Project](https://nathan-ribeiro-de-souza.github.io/responsive-landing-page/)
+
 A responsive landing page built using HTML5 and CSS3, focused on layout structure, styling, and front-end fundamentals.
 
 ## About the Project
