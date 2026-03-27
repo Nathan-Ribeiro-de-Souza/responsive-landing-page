@@ -1,32 +1,62 @@
-# Responsive Landing Page
+# Instagram Landing Page
 
 [View Project](https://nathan-ribeiro-de-souza.github.io/responsive-landing-page/)
 
 A responsive landing page built using HTML5 and CSS3, focused on layout structure, styling, and front-end fundamentals.
 
+---
+
 ## About the Project
 
-This project consists of a static landing page designed to practice semantic HTML, CSS layout techniques, and responsive design principles. The goal is to replicate a real-world UI structure with clean and maintainable code.
+This project is a static landing page developed to practice semantic HTML, CSS layout techniques, and responsive design principles. It aims to replicate a real-world interface with a clean structure and maintainable code.
 
-## Technologies
+The responsiveness is partially implemented and may not be fully optimized across all screen sizes.
+
+---
+
+## Technologies Used
 
 * HTML5
-* CSS3
+* CSS3 (Flexbox, Media Queries)
+
+---
 
 ## Features
 
-* Responsive layout using CSS
+* Responsive layout (partially implemented)
 * Semantic HTML structure
-* Reusable and organized styles
-* Cross-device compatibility
+* Organized and reusable CSS
+* Cross-device compatibility (in progress)
+
+---
 
 ## What I Learned
 
-* Semantic HTML and document structure
-* CSS layout techniques (Flexbox)
-* Responsive design using media queries
-* Code organization and separation of concerns
+* Structuring web pages with semantic HTML
+* Building layouts using Flexbox
+* Applying responsive design with media queries
+* Writing cleaner and more maintainable CSS
+
+---
+
+## Future Improvements
+
+* Improve full responsiveness across all screen sizes
+* Refactor layout using CSS Grid where appropriate
+* Add interactivity using JavaScript
+* Improve accessibility (ARIA roles, better contrast, keyboard navigation)
+* Optimize performance and asset loading
+
+---
 
 ## Status
 
-Completed
+In progress
+
+---
+
+## Author
+
+Nathan Ribeiro de Souza
+
+
