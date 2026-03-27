@@ -1,4 +1,4 @@
-# Instagram Landing Page
+# Landing Page
 
 [View Project](https://nathan-ribeiro-de-souza.github.io/responsive-landing-page/)
 
